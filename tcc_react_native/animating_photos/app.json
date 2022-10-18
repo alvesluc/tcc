@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "animating_photos",
+    "slug": "animating_photos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
